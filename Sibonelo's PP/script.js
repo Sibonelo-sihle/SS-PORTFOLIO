@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'Full-Stack Developer',
         'Cloud DevOps Engineer',
         'AWS Architect',
-        'Data Engineer',
+    
         'AI/MLOps Enthusiast',
         'Cloud Native Builder',
     ];
